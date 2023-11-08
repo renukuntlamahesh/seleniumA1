@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-19T14:10:52 IST" name="Default suite" finished-at="2023-10-19T14:10:52 IST" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2023-10-19T14:10:52 IST" name="Default test" finished-at="2023-10-19T14:10:52 IST" duration-ms="67">
+      <class name="testng.DataProvidePractice">
+        <test-method signature="bookTicketTest(java.lang.String,java.lang.String)[pri:0, instance:testng.DataProvidePractice@7d8995e]" started-at="2023-10-19T14:10:52 IST" name="bookTicketTest" data-provider="data" finished-at="2023-10-19T14:10:52 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hyd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ladakh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+        <test-method signature="bookTicketTest(java.lang.String,java.lang.String)[pri:0, instance:testng.DataProvidePractice@7d8995e]" started-at="2023-10-19T14:10:52 IST" name="bookTicketTest" data-provider="data" finished-at="2023-10-19T14:10:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ladakh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[leh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+        <test-method signature="bookTicketTest(java.lang.String,java.lang.String)[pri:0, instance:testng.DataProvidePractice@7d8995e]" started-at="2023-10-19T14:10:52 IST" name="bookTicketTest" data-provider="data" finished-at="2023-10-19T14:10:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[leh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[J&K]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+      </class> <!-- testng.DataProvidePractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
