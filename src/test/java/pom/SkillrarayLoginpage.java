@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+//This is modified in git hub and verifying pull or not
+
 public class SkillrarayLoginpage {
 	
 	@FindBy(xpath = "//a[text()=\"LOGIN\"]")
